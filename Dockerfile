@@ -17,7 +17,7 @@ COPY . .
 EXPOSE 8080
 
 # Set environment variables (if needed)
-ENV ENV_VARIABLE_NAME Pytho_PATH_3011
+ENV ENV_VARIABLE_NAME Python_PATH_3011
 
 # Run the command to start the application
 CMD [ "python", "Homechat_Project_ENG.py" ]
